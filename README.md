@@ -13,3 +13,5 @@
     Step 6: Tips will be shown on how much everyone pays based on the tip percentages given.
     
     Step 7: There will be a total on how much everyone pays this includes tip and the cost individually.
+    
+    Optional Step: You can make the program into an APK so you can add it to your phone.
